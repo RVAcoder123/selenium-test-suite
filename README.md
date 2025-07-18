@@ -8,7 +8,7 @@ This repository contains a comprehensive Selenium WebDriver test automation suit
   Contains Page Object Model (POM) classes representing web pages and UI components. These encapsulate page interactions and elements for clean and reusable test code.
 
 - `src/test/java/com/projectfalcon/tests/`  
-  Contains TestNG/JUnit test classes covering functional test scenarios such as login, navigation, cart operations, and inventory management. Tests are designed with robustness and parallel execution in mind.
+  Contains Test classes covering functional test scenarios such as login, navigation, cart operations, and inventory management. Tests are designed with robustness and parallel execution in mind.
 
 - `pom.xml`  
   Maven build file managing dependencies, plugins, and project lifecycle.
@@ -60,4 +60,3 @@ This project is licensed under the MIT License.
 ---
 
 *Maintained by Gregg — QA Engineer & Automation Specialist*
-
